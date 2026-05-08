@@ -1,0 +1,1 @@
+# Monte-Carlo-Algoritmas-ile-Veri-Analizi
